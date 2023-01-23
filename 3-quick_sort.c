@@ -27,7 +27,7 @@ int partition(int *array, int low, int high)
     int i, j, k, tmp;
     i = low;
     j = high - 1;
-    int n = 10;
+    int n = array_size(array);
     for (k = low; k < size + low - 1; k++)
     {
         if (array[k] > array[high] && j > 0)
