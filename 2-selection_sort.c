@@ -1,5 +1,4 @@
 #include "sort.h"
-#include <limits.h>
 
 /**
  * selection_sort - sorts an array of integers
