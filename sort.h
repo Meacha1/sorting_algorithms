@@ -2,7 +2,6 @@
 #define SORT_H
 
 #include <stdio.h>
-#include <limits.h>
 #include "sort.h"
 
 /**
